@@ -1,4 +1,4 @@
---
+WorldCup--
 -- PostgreSQL database dump
 --
 
